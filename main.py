@@ -44,17 +44,20 @@ def price() -> float:
     return round(random.uniform(100, 5000), 2)
 
 
-def author() -> str:
-    """Генерирует имя автора"""
+def author() -> list:
+    """Генерирует имя автора/ов"""
+    list_ = []
     fake = Faker()
-    return fake.name()
+    for i in range(random.randint(1, 3)):
+        list_.append(fake.name())
+    return list_
 
 
 def generate() -> dict:
     """Генератор словаря"""
     yield {
         "model": MODEL,
-        "pk": next(pk()),
+        "pk": next(value),
         "fields": {
             "title": book_name(),
             "year": year(),
@@ -80,6 +83,7 @@ def main():
 
 
 if __name__ == '__main__':
+    value = pk()
     main()
 
 
