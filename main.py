@@ -8,32 +8,32 @@ def book_name():
     with open('books.txt', 'r') as file:
         lines = file.readlines()
         book = random.choice(lines)
-    title = book
+
 
 
 def year():
-    year = random.randint(1900, 2022)
+    random.randint(1900, 2022)
 
 
 def pages():
-    pages = random.randint(100, 1000)
+    random.randint(100, 1000)
 
 
 def isbn():
     fake = Faker()
-    isbn13 = (fake.numerify(text='%%%-%-%%%%-%%%%-%'))
+    (fake.numerify(text='%%%-%-%%%%-%%%%-%'))
 
 def rating():
-    rating = random.uniform(0, 5)
+    random.uniform(0, 5)
 
 
 def price():
-    price = random.uniform(100, 1000)
+     random.uniform(100, 1000)
 
 
 def author():
     fake = Faker()
-    author = fake.name()
+    fake.name()
 
 
 def generator():
@@ -51,7 +51,7 @@ def generator():
         }
     }
     yield dict_
-    print(dict_)
+
 
 
 if __name__ == '__main__':
