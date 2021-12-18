@@ -1,1 +1,1302 @@
 [
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1985,
+            "pages": 745,
+            "isbn13": "831-8-2494-8117-8",
+            "rating": 3.1812,
+            "price": 3920.5,
+            "author": "Toni Griffith"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1981,
+            "pages": 910,
+            "isbn13": "237-2-3542-6522-7",
+            "rating": 4.8961,
+            "price": 3295.13,
+            "author": "Lynn Jones"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1966,
+            "pages": 277,
+            "isbn13": "373-3-9199-5525-2",
+            "rating": 4.2086,
+            "price": 3372.34,
+            "author": "Daniel Robbins"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1960,
+            "pages": 642,
+            "isbn13": "336-7-6519-8367-7",
+            "rating": 0.0929,
+            "price": 862.5,
+            "author": "Thomas Fisher"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 2010,
+            "pages": 675,
+            "isbn13": "242-9-5946-1685-1",
+            "rating": 0.2292,
+            "price": 3770.25,
+            "author": "Roger Ortiz"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1901,
+            "pages": 938,
+            "isbn13": "527-7-2675-3648-5",
+            "rating": 3.8913,
+            "price": 1776.62,
+            "author": "Katrina Townsend"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1971,
+            "pages": 764,
+            "isbn13": "119-3-5811-2713-8",
+            "rating": 4.1386,
+            "price": 3047.52,
+            "author": "Patrick Guerrero"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1904,
+            "pages": 725,
+            "isbn13": "371-3-2479-2575-6",
+            "rating": 4.1908,
+            "price": 182.54,
+            "author": "John Walsh"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1912,
+            "pages": 229,
+            "isbn13": "376-5-7643-9871-2",
+            "rating": 0.3583,
+            "price": 692.42,
+            "author": "Casey Thomas"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1982,
+            "pages": 833,
+            "isbn13": "445-6-5139-3132-6",
+            "rating": 1.9801,
+            "price": 1526.29,
+            "author": "Gilbert Moore"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1989,
+            "pages": 152,
+            "isbn13": "691-4-4943-3622-9",
+            "rating": 2.2204,
+            "price": 1368.63,
+            "author": "Stephanie Small"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1983,
+            "pages": 796,
+            "isbn13": "699-3-9187-1525-8",
+            "rating": 1.2977,
+            "price": 297.6,
+            "author": "Joshua House"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1962,
+            "pages": 138,
+            "isbn13": "181-7-5657-6146-9",
+            "rating": 3.2754,
+            "price": 1776.75,
+            "author": "Amanda Cook"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1926,
+            "pages": 991,
+            "isbn13": "672-1-3249-5716-4",
+            "rating": 1.8861,
+            "price": 2399.62,
+            "author": "Brian Meyer"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1915,
+            "pages": 803,
+            "isbn13": "515-1-1414-4165-9",
+            "rating": 4.3865,
+            "price": 3533.09,
+            "author": "Ashley Bright"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1904,
+            "pages": 181,
+            "isbn13": "764-6-3298-6522-5",
+            "rating": 4.5536,
+            "price": 3334.86,
+            "author": "Alan Castro"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1948,
+            "pages": 163,
+            "isbn13": "833-6-4355-7254-8",
+            "rating": 1.875,
+            "price": 2246.51,
+            "author": "Michael Guerrero"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1973,
+            "pages": 394,
+            "isbn13": "244-6-4993-8657-1",
+            "rating": 2.2808,
+            "price": 2108.08,
+            "author": "Matthew Mcclain"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1919,
+            "pages": 601,
+            "isbn13": "488-4-6349-1463-7",
+            "rating": 4.8671,
+            "price": 1784.51,
+            "author": "Steven Johnson"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1998,
+            "pages": 121,
+            "isbn13": "615-7-3996-3315-3",
+            "rating": 2.2183,
+            "price": 3080.57,
+            "author": "Steve King"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1948,
+            "pages": 503,
+            "isbn13": "351-3-6369-7387-1",
+            "rating": 3.4717,
+            "price": 3332.13,
+            "author": "Carlos Thomas"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1900,
+            "pages": 804,
+            "isbn13": "283-2-2623-9295-9",
+            "rating": 3.7404,
+            "price": 1514.61,
+            "author": "Jonathan Maldonado"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1956,
+            "pages": 497,
+            "isbn13": "899-8-5591-3282-2",
+            "rating": 4.8401,
+            "price": 4835.01,
+            "author": "Anthony Bender"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1910,
+            "pages": 761,
+            "isbn13": "829-2-4173-4975-6",
+            "rating": 2.1736,
+            "price": 929.55,
+            "author": "Sarah Hopkins"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1993,
+            "pages": 700,
+            "isbn13": "852-7-2465-9478-2",
+            "rating": 2.4925,
+            "price": 3070.82,
+            "author": "Cassidy Mendez"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 2000,
+            "pages": 683,
+            "isbn13": "239-9-1545-1582-7",
+            "rating": 3.5823,
+            "price": 4423.23,
+            "author": "Kevin Harrison"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1999,
+            "pages": 715,
+            "isbn13": "438-8-1738-1382-2",
+            "rating": 3.1296,
+            "price": 1872.68,
+            "author": "Mark Holloway"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1954,
+            "pages": 533,
+            "isbn13": "428-8-2274-3877-4",
+            "rating": 0.2054,
+            "price": 3137.1,
+            "author": "Jordan Harrington"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 2010,
+            "pages": 766,
+            "isbn13": "474-3-7629-4122-8",
+            "rating": 0.9371,
+            "price": 2123.54,
+            "author": "Brian Jones"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 2000,
+            "pages": 793,
+            "isbn13": "354-9-1433-5245-9",
+            "rating": 2.5154,
+            "price": 494.43,
+            "author": "Casey Miller"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1975,
+            "pages": 517,
+            "isbn13": "584-2-9347-5786-9",
+            "rating": 0.5286,
+            "price": 283.09,
+            "author": "Yesenia Hawkins"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1939,
+            "pages": 366,
+            "isbn13": "138-7-1331-2531-6",
+            "rating": 1.9852,
+            "price": 1341.56,
+            "author": "Michael Watkins"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1981,
+            "pages": 215,
+            "isbn13": "649-3-7357-2947-8",
+            "rating": 3.1519,
+            "price": 3500.78,
+            "author": "Larry Miller"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1902,
+            "pages": 918,
+            "isbn13": "835-1-3378-5756-8",
+            "rating": 2.0892,
+            "price": 3619.5,
+            "author": "Cynthia Turner DVM"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1913,
+            "pages": 339,
+            "isbn13": "599-8-1437-6595-8",
+            "rating": 4.0208,
+            "price": 230.17,
+            "author": "Shane Boyle"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 2001,
+            "pages": 517,
+            "isbn13": "149-9-2396-2313-5",
+            "rating": 1.0645,
+            "price": 3260.94,
+            "author": "John Wagner"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 2016,
+            "pages": 105,
+            "isbn13": "335-7-4585-4569-9",
+            "rating": 2.6195,
+            "price": 2153.97,
+            "author": "Jamie Taylor"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1933,
+            "pages": 940,
+            "isbn13": "119-1-6798-1563-9",
+            "rating": 4.9691,
+            "price": 4345.98,
+            "author": "Samantha Sanders"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 2007,
+            "pages": 980,
+            "isbn13": "443-2-1185-9679-1",
+            "rating": 0.4587,
+            "price": 1095.44,
+            "author": "Christopher Hudson"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 2005,
+            "pages": 625,
+            "isbn13": "691-3-1745-9945-4",
+            "rating": 1.6281,
+            "price": 573.75,
+            "author": "Mary Garcia"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1952,
+            "pages": 655,
+            "isbn13": "424-8-5571-9144-8",
+            "rating": 4.3324,
+            "price": 2499.48,
+            "author": "Robert Larsen"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1943,
+            "pages": 720,
+            "isbn13": "285-1-3822-9431-2",
+            "rating": 1.4855,
+            "price": 1960.63,
+            "author": "Jordan Solis"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1909,
+            "pages": 593,
+            "isbn13": "195-9-3966-2445-1",
+            "rating": 1.9333,
+            "price": 4333.15,
+            "author": "Mary Hall"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 2013,
+            "pages": 331,
+            "isbn13": "412-1-1418-9657-3",
+            "rating": 4.5274,
+            "price": 4880.34,
+            "author": "Tiffany Lozano"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1968,
+            "pages": 812,
+            "isbn13": "985-6-6539-8166-4",
+            "rating": 4.3912,
+            "price": 3119.28,
+            "author": "Erin Davis"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1910,
+            "pages": 187,
+            "isbn13": "756-9-2774-2119-6",
+            "rating": 2.9519,
+            "price": 3876.94,
+            "author": "Cassandra Mccarty"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1941,
+            "pages": 290,
+            "isbn13": "511-7-1462-3694-8",
+            "rating": 4.4605,
+            "price": 2179.31,
+            "author": "Kevin Anderson"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1930,
+            "pages": 298,
+            "isbn13": "765-2-1286-9972-1",
+            "rating": 0.1585,
+            "price": 788.99,
+            "author": "Russell Ortiz"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 2002,
+            "pages": 131,
+            "isbn13": "663-1-7859-3755-7",
+            "rating": 1.3441,
+            "price": 2582.93,
+            "author": "Victoria Anderson"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 2009,
+            "pages": 763,
+            "isbn13": "514-5-2895-6866-6",
+            "rating": 4.5201,
+            "price": 539.76,
+            "author": "Julie Clark"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1935,
+            "pages": 302,
+            "isbn13": "541-3-6388-9115-4",
+            "rating": 3.3013,
+            "price": 3549.67,
+            "author": "James Hayes"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1906,
+            "pages": 407,
+            "isbn13": "252-9-8922-2721-8",
+            "rating": 0.0754,
+            "price": 1177.44,
+            "author": "Angela Finley"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1943,
+            "pages": 349,
+            "isbn13": "125-8-2754-5678-6",
+            "rating": 1.4086,
+            "price": 3531.7,
+            "author": "Tara Zimmerman"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1918,
+            "pages": 414,
+            "isbn13": "813-2-6374-8419-4",
+            "rating": 3.6398,
+            "price": 1935.11,
+            "author": "Jose Pearson"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1962,
+            "pages": 376,
+            "isbn13": "418-6-8698-5689-2",
+            "rating": 1.3365,
+            "price": 1746.15,
+            "author": "Daniel Jacobs Jr."
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1962,
+            "pages": 745,
+            "isbn13": "575-9-8782-4261-5",
+            "rating": 0.2497,
+            "price": 1303.12,
+            "author": "Brittney Lambert"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1963,
+            "pages": 653,
+            "isbn13": "637-6-9658-7136-5",
+            "rating": 2.2625,
+            "price": 776.33,
+            "author": "Ronald Porter"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 2009,
+            "pages": 871,
+            "isbn13": "916-4-1851-4985-9",
+            "rating": 3.3742,
+            "price": 1043.86,
+            "author": "Alexis Hernandez MD"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1956,
+            "pages": 134,
+            "isbn13": "926-7-8423-1771-1",
+            "rating": 4.7679,
+            "price": 2364.08,
+            "author": "Jillian Cobb"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1908,
+            "pages": 300,
+            "isbn13": "229-3-7819-3889-1",
+            "rating": 1.1241,
+            "price": 861.76,
+            "author": "Tiffany Ross"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1999,
+            "pages": 560,
+            "isbn13": "682-7-9512-9683-8",
+            "rating": 4.9409,
+            "price": 100.99,
+            "author": "Nicolas Burton"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1983,
+            "pages": 287,
+            "isbn13": "259-6-5867-8197-6",
+            "rating": 4.0292,
+            "price": 809.87,
+            "author": "Shari Wallace"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 2021,
+            "pages": 589,
+            "isbn13": "369-7-5958-9382-2",
+            "rating": 4.1212,
+            "price": 3292.08,
+            "author": "Monique Miller"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1929,
+            "pages": 603,
+            "isbn13": "378-5-3689-2449-8",
+            "rating": 2.4688,
+            "price": 4020.23,
+            "author": "Lauren Hernandez"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1968,
+            "pages": 147,
+            "isbn13": "756-7-3829-2388-9",
+            "rating": 0.4764,
+            "price": 3077.25,
+            "author": "Dennis Morales"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 2003,
+            "pages": 749,
+            "isbn13": "466-6-9518-3233-3",
+            "rating": 3.0998,
+            "price": 252.38,
+            "author": "Brian Hamilton"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1916,
+            "pages": 873,
+            "isbn13": "625-2-9157-9847-4",
+            "rating": 4.2404,
+            "price": 2729.44,
+            "author": "Cheryl Smith"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1939,
+            "pages": 997,
+            "isbn13": "925-3-9119-4651-4",
+            "rating": 4.1379,
+            "price": 621.98,
+            "author": "James Edwards"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1952,
+            "pages": 656,
+            "isbn13": "521-4-4832-2899-6",
+            "rating": 3.4922,
+            "price": 964.37,
+            "author": "Alyssa Brown"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1908,
+            "pages": 833,
+            "isbn13": "762-9-6385-3584-5",
+            "rating": 1.686,
+            "price": 1772.92,
+            "author": "Dana Whitehead"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1923,
+            "pages": 736,
+            "isbn13": "727-5-7166-6885-4",
+            "rating": 1.2944,
+            "price": 1740.11,
+            "author": "Bobby Boyd"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1983,
+            "pages": 599,
+            "isbn13": "572-1-7388-7498-6",
+            "rating": 4.6974,
+            "price": 4700.22,
+            "author": "James Pierce"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1954,
+            "pages": 428,
+            "isbn13": "211-6-6266-3659-8",
+            "rating": 0.5195,
+            "price": 919.57,
+            "author": "Cheryl Mitchell DVM"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1988,
+            "pages": 362,
+            "isbn13": "285-8-2918-3653-9",
+            "rating": 1.9037,
+            "price": 2258.0,
+            "author": "Mrs. Paula Vega"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1927,
+            "pages": 467,
+            "isbn13": "143-6-7588-6885-8",
+            "rating": 1.8602,
+            "price": 559.08,
+            "author": "Brenda Craig"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1999,
+            "pages": 502,
+            "isbn13": "678-1-1751-5343-1",
+            "rating": 2.5027,
+            "price": 1054.72,
+            "author": "Madison Reynolds"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1929,
+            "pages": 646,
+            "isbn13": "375-7-8643-6115-9",
+            "rating": 0.6562,
+            "price": 2962.67,
+            "author": "Amy Jones"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1927,
+            "pages": 638,
+            "isbn13": "123-2-9955-8952-4",
+            "rating": 0.1278,
+            "price": 181.06,
+            "author": "Ryan Campos"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 2017,
+            "pages": 880,
+            "isbn13": "959-5-7437-9812-8",
+            "rating": 2.9539,
+            "price": 3869.73,
+            "author": "Amber Gaines DDS"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1982,
+            "pages": 760,
+            "isbn13": "558-5-3621-2737-4",
+            "rating": 2.1774,
+            "price": 1535.13,
+            "author": "Danielle Davis"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1995,
+            "pages": 661,
+            "isbn13": "878-7-7543-4462-4",
+            "rating": 2.6201,
+            "price": 1340.62,
+            "author": "Darlene Ball"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1965,
+            "pages": 435,
+            "isbn13": "661-1-6487-1531-9",
+            "rating": 4.3632,
+            "price": 532.45,
+            "author": "Kelli Blankenship"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 2020,
+            "pages": 232,
+            "isbn13": "883-5-3836-3278-3",
+            "rating": 4.0218,
+            "price": 2212.72,
+            "author": "Scott Lopez"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1956,
+            "pages": 402,
+            "isbn13": "795-8-7127-5368-5",
+            "rating": 4.4109,
+            "price": 4623.47,
+            "author": "Craig Jordan"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 2020,
+            "pages": 579,
+            "isbn13": "914-2-7912-3868-3",
+            "rating": 1.5761,
+            "price": 1541.58,
+            "author": "Susan Ortiz"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 2019,
+            "pages": 947,
+            "isbn13": "278-9-6935-7415-1",
+            "rating": 3.252,
+            "price": 387.22,
+            "author": "Dawn Larson"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 1912,
+            "pages": 547,
+            "isbn13": "848-2-1231-3821-7",
+            "rating": 3.4937,
+            "price": 1014.58,
+            "author": "Sergio Hammond"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 1920,
+            "pages": 436,
+            "isbn13": "449-1-8639-5832-6",
+            "rating": 3.5769,
+            "price": 1559.05,
+            "author": "Susan Jackson"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1910,
+            "pages": 935,
+            "isbn13": "972-6-9658-3247-9",
+            "rating": 0.7139,
+            "price": 3696.81,
+            "author": "Brenda Leon"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1984,
+            "pages": 209,
+            "isbn13": "279-7-2426-4764-2",
+            "rating": 3.9834,
+            "price": 2183.22,
+            "author": "Mrs. Krista Osborne"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Автостопом по галактике\n",
+            "year": 2021,
+            "pages": 218,
+            "isbn13": "636-4-5435-4265-9",
+            "rating": 1.634,
+            "price": 3682.26,
+            "author": "Brittany Gibson"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Убить пересмешника\n",
+            "year": 1961,
+            "pages": 345,
+            "isbn13": "722-6-1673-2156-2",
+            "rating": 4.3406,
+            "price": 823.91,
+            "author": "John Kennedy"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1912,
+            "pages": 633,
+            "isbn13": "241-1-5787-4575-5",
+            "rating": 4.2251,
+            "price": 3076.26,
+            "author": "Dr. Meghan Rodriguez MD"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1922,
+            "pages": 691,
+            "isbn13": "193-6-8177-6923-2",
+            "rating": 1.4702,
+            "price": 4884.23,
+            "author": "Anthony Lopez"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1980,
+            "pages": 264,
+            "isbn13": "985-7-2698-4136-7",
+            "rating": 0.2515,
+            "price": 4248.06,
+            "author": "Kelly Ortega"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Властелин колец\n",
+            "year": 1953,
+            "pages": 399,
+            "isbn13": "751-1-5694-2558-8",
+            "rating": 2.6358,
+            "price": 3813.72,
+            "author": "Rhonda Carr"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Гордость и предубеждение\n",
+            "year": 1930,
+            "pages": 520,
+            "isbn13": "618-3-2723-5916-3",
+            "rating": 4.1001,
+            "price": 2491.17,
+            "author": "Marie Wilson"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 2013,
+            "pages": 808,
+            "isbn13": "473-8-7395-8634-4",
+            "rating": 1.4841,
+            "price": 4638.48,
+            "author": "Beth Costa"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1945,
+            "pages": 663,
+            "isbn13": "817-4-9588-2842-5",
+            "rating": 0.9916,
+            "price": 2965.33,
+            "author": "Terrance Moreno"
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром\n",
+            "year": 2018,
+            "pages": 170,
+            "isbn13": "635-5-5229-6582-8",
+            "rating": 2.6845,
+            "price": 3634.48,
+            "author": "Connor Jones"
+        }
+    }
+]

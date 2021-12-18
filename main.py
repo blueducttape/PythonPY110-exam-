@@ -4,42 +4,57 @@ import json
 from conf import MODEL
 
 
-def book_name():
+def pk(start=1) -> int:
+    """Создание счётчика"""
+    while True:
+        yield start
+        start += 1
+
+
+def book_name() -> str:
+    """Выбирает название книги из файла books.txt"""
     with open('books.txt', 'r') as file:
         lines = file.readlines()
-        book = random.choice(lines)
+        return random.choice(lines)
 
 
-
-def year():
-    random.randint(1900, 2022)
-
-
-def pages():
-    random.randint(100, 1000)
+def year() -> int:
+    """Генерирует год"""
+    return random.randint(1900, 2022)
 
 
-def isbn():
+def pages() -> int:
+    """Генерирует кол-во страниц"""
+    return random.randint(100, 1000)
+
+
+def isbn() -> str:
+    """Генерирует ISBN"""
     fake = Faker()
-    (fake.numerify(text='%%%-%-%%%%-%%%%-%'))
-
-def rating():
-    random.uniform(0, 5)
+    return fake.numerify(text='%%%-%-%%%%-%%%%-%')
 
 
-def price():
-     random.uniform(100, 1000)
+def rating() -> float:
+    """Генерирует рейтинг книги"""
+    return round(random.uniform(0, 5), 4)
 
 
-def author():
+def price() -> float:
+    """Генерирует цену книги"""
+    return round(random.uniform(100, 5000), 2)
+
+
+def author() -> str:
+    """Генерирует имя автора"""
     fake = Faker()
-    fake.name()
+    return fake.name()
 
 
-def generator():
-    dict_ = {
+def generate() -> dict:
+    """Генератор словаря"""
+    yield {
         "model": MODEL,
-        "pk": 1,
+        "pk": next(pk()),
         "fields": {
             "title": book_name(),
             "year": year(),
@@ -49,15 +64,22 @@ def generator():
             "price": price(),
             "author": author()
         }
-    }
-    yield dict_
 
+    }
+
+
+def main():
+    books_list = []
+    for x in range(100):
+        books = next(generate())
+        books_list.append(books)
+    """создаем список"""
+    with open("books.json", "w") as write_file:
+        json.dump(books_list, write_file, indent=4, ensure_ascii=False)
+    """запись в файл"""
 
 
 if __name__ == '__main__':
-    books_list = []
-    for pk in range(1, 101, 1):
-        books = generator()
-        books_list.append(books)
-with open("books.json", "w") as write_file:
-    json.dump(books_list, write_file)
+    main()
+
+
